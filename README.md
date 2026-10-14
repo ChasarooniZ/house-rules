@@ -25,7 +25,7 @@
  - Spend 1 action to find an adjacent ally if you're blinded to ignore the flat check (this is lost if either of you move)
 
 # Character Building Rules
-## General Changes
+## Character Building Related House Rules
 **Background Lore Scaling**
 - Lore from your Background now grants you the [Additional Lore Feat](https://2e.aonprd.com/Feats.aspx?ID=5114&Redirected=1) for that Lore
 
