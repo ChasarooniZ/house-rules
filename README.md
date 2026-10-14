@@ -40,6 +40,11 @@
  - at **2nd Level**
    - 1 Class Feat
 
+## Feature Changes
+**Make Higher Level Saves More Interesting**
+- When you roll a success on the saving throw, you get a critical success instead. ⇒ When you roll a **critical failure** on the saving throw, you get a **failure** instead.
+- When you roll a critical failure on the saving throw, you get a failure instead. ⇒ When you roll a **success** on the saving throw, you get a **critical success** instead.
+
 ## Feat Changes
 **[Garden of Healing](https://2e.aonprd.com/Spells.aspx?ID=2166)**
 - In Exploration Mode the total healing received is `1d8 per spell rank`
